@@ -7,3 +7,4 @@
 5-listfilesdigitonly displays current directory contents in long format,with user and group IDs displayed numerically and hidden files (starting with .
 6-firstdirectory displays a script that creates a directory
 7-movethatfile displays a script that moves a file into a directory
+8-firstdelete displays a script that deletes a file
