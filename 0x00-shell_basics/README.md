@@ -9,3 +9,4 @@
 7-movethatfile displays a script that moves a file into a directory
 8-firstdelete displays a script that deletes a file
 9-firstdirdeletion displays a script that deletes a directory
+10-back displays a script that changes the working directory to the previous one
