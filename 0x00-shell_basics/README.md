@@ -6,3 +6,4 @@
 4-listmorefiles displays current directory contents,including hidden files using long format.
 5-listfilesdigitonly displays current directory contents in long format,with user and group IDs displayed numerically and hidden files (starting with .
 6-firstdirectory displays a script that creates a directory
+7-movethatfile displays a script that moves a file into a directory
