@@ -13,3 +13,4 @@ i- 0-current_working_directory prints the absolute path name of the current work
 - 11-lists displays a script that lists all the files in the current directory and the parent of the working directory and the boot
 - 12-file_type displays a script that prints the type of the file named
 - 13-symbolic_link displays a script that creates a symbolic link
+- 14-copy_html displays a script that copies all the HTML files from the current working directory to the parent of the working directory
