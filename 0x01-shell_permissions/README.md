@@ -6,3 +6,4 @@
 - 5-execute displays a script that adds execute permission to the owner of the file
 - 6-multiple_permissions displays a script that adds execute and read permission
 - 7-Everybody displays a script that adds the execution permission to all users
+- 8-James_Bond displays a script that sets the permission to the file
