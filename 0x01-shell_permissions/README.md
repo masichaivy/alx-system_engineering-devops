@@ -8,3 +8,4 @@
 - 7-Everybody displays a script that adds the execution permission to all users
 - 8-James_Bond displays a script that sets the permission to the file
 - 9-John_Doe displays a script that sets the mode of the file
+- 10-mirror_permissions displays a script that sets files in the same mode
