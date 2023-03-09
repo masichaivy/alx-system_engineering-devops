@@ -1,0 +1,1 @@
+-0-iam_betty displays a script that switches the current user
