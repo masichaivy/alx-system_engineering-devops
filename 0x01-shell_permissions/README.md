@@ -9,3 +9,4 @@
 - 8-James_Bond displays a script that sets the permission to the file
 - 9-John_Doe displays a script that sets the mode of the file
 - 10-mirror_permissions displays a script that sets files in the same mode
+- 11-directories_permissions displays a script that adds execute permission to all subdirectories of the current directory for all users
