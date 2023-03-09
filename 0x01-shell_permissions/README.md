@@ -5,3 +5,4 @@
 - 4-empty displays a script that creates an empty file
 - 5-execute displays a script that adds execute permission to the owner of the file
 - 6-multiple_permissions displays a script that adds execute and read permission
+- 7-Everybody displays a script that adds the execution permission to all users
