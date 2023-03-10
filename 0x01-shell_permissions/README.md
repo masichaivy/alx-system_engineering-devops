@@ -11,3 +11,4 @@
 - 10-mirror_permissions displays a script that sets files in the same mode
 - 11-directories_permissions displays a script that adds execute permission to all subdirectories of the current directory for all users
 - 12-directory_permission displays a script that creates a directory with permissions 751 in the working directory
+- 13-change_group displays a script that changes the group owner
