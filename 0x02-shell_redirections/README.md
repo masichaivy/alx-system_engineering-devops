@@ -4,3 +4,4 @@
 - 3-twofiles displays a script that displays content of a file
 - 4-lastlines displays a script that shows 10 last lines
 - 5-firstlines displays a script that shows 10 first lines
+- 6-third_line displays a script that displays the third line of the file.
