@@ -6,3 +6,4 @@
 - 5-firstlines displays a script that shows 10 first lines
 - 6-third_line displays a script that displays the third line of the file.
 - 7-file displays a script that creates a file that contains a text and ends by a new line
+- 8-cwd_state displays script that saves the current state of a directory
