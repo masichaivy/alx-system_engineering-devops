@@ -10,4 +10,6 @@
 - 9-duplicate_last_line displays a script that duplicates the last line of the file
 - 10-no_more_js displays a script that deletes all the regular files
 - 11-directories displays a script that counts the number of directories and sub-directories in the current directory
-- 12-newest_files displays script that displays the 10 newest files in a current directory 
+- 12-newest_files displays script that displays the 10 newest files in a current directory
+- 13-unique displays a script that takes a list of words as input and prints only words that appear exactly once
+- 14-find that word displays a script that displays line containing a pattern from a file
