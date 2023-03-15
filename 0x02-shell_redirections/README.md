@@ -2,3 +2,4 @@
 - 1-confused_smiley displays a confused smiley script
 - 2-hellofile displays a script that displays a file
 - 3-twofiles displays a script that displays content of a file
+- 4-lastlines displays a script that shows 10 last lines
