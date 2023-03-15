@@ -9,4 +9,5 @@
 - 8-cwd_state displays script that saves the current state of a directory
 - 9-duplicate_last_line displays a script that duplicates the last line of the file
 - 10-no_more_js displays a script that deletes all the regular files
-- 11-directories displays a script that counts the number of directories and sub-directories in the current directory 
+- 11-directories displays a script that counts the number of directories and sub-directories in the current directory
+- 12-newest_files displays script that displays the 10 newest files in a current directory 
