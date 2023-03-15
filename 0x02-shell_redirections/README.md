@@ -1,2 +1,3 @@
 - 0-hello_world displays a script that prints "Hello World"
 - 1-confused_smiley displays a confused smiley script
+- 2-hellofile displays a script that displays a file
