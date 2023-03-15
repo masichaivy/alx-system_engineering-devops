@@ -13,3 +13,4 @@
 - 12-newest_files displays script that displays the 10 newest files in a current directory
 - 13-unique displays a script that takes a list of words as input and prints only words that appear exactly once
 - 14-find that word displays a script that displays line containing a pattern from a file
+- 15-countthatword displays a script that displays the number of lines that contain a pattern 
