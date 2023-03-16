@@ -1,1 +1,2 @@
 - 0-alias displays a script that creates an alias
+- 1-hello_you displays a script that prints'hello user'
