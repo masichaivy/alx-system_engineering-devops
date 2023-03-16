@@ -1,0 +1,1 @@
+- 0-alias displays a script that creates an alias
