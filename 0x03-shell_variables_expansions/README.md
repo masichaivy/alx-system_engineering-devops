@@ -1,3 +1,4 @@
 - 0-alias displays a script that creates an alias
 - 1-hello_you displays a script that prints'hello user'
 - 2-path displays a script that adds action to path
+- 3-paths displays a script that counts the number of assignment
