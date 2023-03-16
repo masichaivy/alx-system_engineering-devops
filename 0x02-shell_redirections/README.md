@@ -17,4 +17,7 @@
 - 16-whatsnext displays script that displays lines containing a pattern and 3 lines after themin a file
 - 17-hidethisword displays a script that displays all the lines in a file that do not contain the pattern bin
 - 18-letteronly displays a script that displays all the lines in a file starting with a letter
-- 19-AZ displays a script that replaces all characters 
+- 19-AZ displays a script that replaces all characters
+- 20-hiago displays a script that removes specific characters 
+
+ 
